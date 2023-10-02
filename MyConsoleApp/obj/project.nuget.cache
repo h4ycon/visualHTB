@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2tjVZfLZ/8W+9LQExJbxQ60iRUymhaQ1MBY+ymNswgZANe0IEmf3PjOmfqqWtCT1k+AYWKjY9ACSKaPSp39hw==",
+  "success": true,
+  "projectFilePath": "/home/ojo/htb/boxes/visual/hello/MyProject/MyConsoleApp/MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/ojo/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/ojo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/ojo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
