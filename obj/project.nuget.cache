@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLqVcGjFl9OQJ0GG5IwTqx8mloxyUTcB3tcLprrCk5wXLmbC3JD/Y9nMpdp5ZgFBwn48uUpyx9UAPOWaJaTLiQ==",
+  "success": true,
+  "projectFilePath": "/home/ojo/htb/boxes/visual/hello/MyProject/MyProject.csproj",
+  "expectedPackageFiles": [
+    "/home/ojo/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/ojo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/ojo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
